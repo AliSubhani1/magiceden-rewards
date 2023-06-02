@@ -1,7 +1,7 @@
 import React from 'react';
 import { Navigate } from 'react-router-dom';
 
-//will update on authentication
+// will update this later on connecting wallet
 const userToken = null
 
 interface RoutePropsType {
