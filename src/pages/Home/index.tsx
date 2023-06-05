@@ -11,7 +11,9 @@ const Home = () => {
         (state: RootState) => state.counter.incrementAmount
     );
     console.log(count, incrementAmount)
-    return <div>Home Page</div>
+    return <div>
+        Home Page
+    </div>
 }
 
 export default Home

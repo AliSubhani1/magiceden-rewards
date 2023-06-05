@@ -2,7 +2,7 @@ import React from 'react';
 import { Navigate } from 'react-router-dom';
 
 // will update this later on connecting wallet
-const userToken = null
+const userToken = 2
 
 interface RoutePropsType {
     children: React.ReactElement;
